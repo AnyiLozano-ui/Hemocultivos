@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 172.94 172.94">
+  <defs>
+    <style>
+      .e {
+        fill: #d1cd0a;
+      }
+
+      .e, .f, .g, .h, .i, .j, .k, .l, .m, .n, .o, .p, .q, .r, .s, .t, .u, .v, .w, .x, .y, .z, .aa, .ab, .ac, .ad, .ae, .af, .ag, .ah, .ai, .aj, .ak, .al, .am, .an, .ao, .ap, .aq, .ar, .as, .at, .au, .av, .aw, .ax, .ay, .az, .ba, .bb, .bc, .bd, .be, .bf, .bg, .bh, .bi, .bj, .bk, .bl, .bm, .bn, .bo, .bp, .bq, .br, .bs, .bt, .bu, .bv, .bw, .bx, .by, .bz, .ca, .cb, .cc, .cd, .ce, .cf, .cg, .ch, .ci, .cj, .ck, .cl, .cm, .cn, .co, .cp, .cq, .cr, .cs, .ct, .cu, .cv, .cw, .cx, .cy, .cz, .da, .db, .dc, .dd, .de, .df, .dg, .dh, .di, .dj, .dk, .dl, .dm, .dn, .do, .dp, .dq, .dr, .ds, .dt, .du, .dv, .dw, .dx, .dy, .dz, .ea, .eb, .ec, .ed, .ee, .ef, .eg, .eh, .ei, .ej, .ek, .el, .em, .en, .eo, .ep, .eq, .er, .es, .et, .eu, .ev, .ew, .ex, .ey, .ez, .fa, .fb, .fc, .fd, .fe, .ff, .fg, .fh, .fi, .fj, .fk, .fl, .fm, .fn, .fo, .fp, .fq, .fr, .fs, .ft, .fu, .fv, .fw, .fx, .fy, .fz, .ga, .gb, .gc, .gd, .ge, .gf, .gg {
+        stroke-width: 0px;
+      }
+
+      .f {
+        fill: #c9ca10;
+      }
+
+      .g {
+        fill: #dbd004;
+      }
+
+      .h {
+        fill: #a5bd18;
+      }
+
+      .i {
+        fill: #ddd101;
+      }
+
+      .j {
+        fill: #bbc50f;
+      }
+
+      .k {
+        fill: #ecd700;
+      }
+
+      .l {
+        fill: #9bbb1e;
+      }
+
+      .m {
+        fill: #f2d900;
+      }
+
+      .n {
+        fill: #5ea431;
+      }
+
+      .o {
+        fill: #fddc04;
+      }
+
+      .p {
+        fill: #abc014;
+      }
+
+      .q {
+        fill: #88b426;
+      }
+
+      .r {
+        fill: #90b623;
+      }
+
+      .s {
+        fill: #55a133;
+      }
+
+      .t {
+        fill: #349437;
+      }
+
+      .u {
+        fill: #83b227;
+      }
+
+      .v {
+        fill: #92b722;
+      }
+
+      .w {
+        fill: none;
+      }
+
+      .x {
+        fill: #aec111;
+      }
+
+      .y {
+        fill: #cdcb10;
+      }
+
+      .z {
+        fill: #7fb029;
+      }
+
+      .aa {
+        fill: #4a9d35;
+      }
+
+      .ab {
+        fill: #aabf15;
+      }
+
+      .ac {
+        fill: #d3ce0c;
+      }
+
+      .ad {
+        fill: #9aba1e;
+      }
+
+      .ae {
+        fill: #65a830;
+      }
+
+      .af {
+        fill: #6caa2e;
+      }
+
+      .ag {
+        fill: #d8cf0a;
+      }
+
+      .ah {
+        fill: #9cba1d;
+      }
+
+      .ai {
+        fill: #d9cf07;
+      }
+
+      .aj {
+        fill: #bec60c;
+      }
+
+      .ak {
+        fill: #9dba1d;
+      }
+
+      .al {
+        fill: #a7be17;
+      }
+
+      .am {
+        fill: #479c35;
+      }
+
+      .an {
+        fill: #4d9e34;
+      }
+
+      .ao {
+        fill: #72ac2d;
+      }
+
+      .ap {
+        fill: #6ba92f;
+      }
+
+      .aq {
+        fill: #3b9836;
+      }
+
+      .ar {
+        fill: #d6cf0c;
+      }
+
+      .as {
+        fill: #84b227;
+      }
+
+      .at {
+        fill: #eed900;
+      }
+
+      .au {
+        fill: #d4ce0a;
+      }
+
+      .av {
+        fill: #98ba1f;
+      }
+
+      .aw {
+        fill: #f4db01;
+      }
+
+      .ax {
+        fill: #e5d404;
+      }
+
+      .ay {
+        fill: #67a82f;
+      }
+
+      .az {
+        fill: #e8d600;
+      }
+
+      .ba {
+        fill: #74ad2c;
+      }
+
+      .bb {
+        fill: #e3d402;
+      }
+
+      .bc {
+        fill: #519f33;
+      }
+
+      .bd {
+        fill: #6dab2e;
+      }
+
+      .be {
+        fill: #399736;
+      }
+
+      .bf {
+        fill: #80b029;
+      }
+
+      .bg {
+        fill: #71ac2d;
+      }
+
+      .bh {
+        fill: #b1c20e;
+      }
+
+      .bi {
+        fill: #a8be17;
+      }
+
+      .bj {
+        fill: #3f9936;
+      }
+
+      .bk {
+        fill: #69a92f;
+      }
+
+      .bl {
+        fill: #f8db01;
+      }
+
+      .bm {
+        fill: #3a9636;
+      }
+
+      .bn {
+        fill: #5fa531;
+      }
+
+      .bo {
+        fill: #4e9f34;
+      }
+
+      .bp {
+        fill: #70ab2d;
+      }
+
+      .bq {
+        fill: #f0d800;
+      }
+
+      .br {
+        fill: #77ad2b;
+      }
+
+      .bs {
+        fill: #6fab2e;
+      }
+
+      .bt {
+        fill: #a6be17;
+      }
+
+      .bu {
+        fill: #dcd003;
+      }
+
+      .bv {
+        fill: #a0bc1b;
+      }
+
+      .bw {
+        fill: #7eb029;
+      }
+
+      .bx {
+        fill: #b5c311;
+      }
+
+      .by {
+        fill: #94b921;
+      }
+
+      .bz {
+        fill: #dbd105;
+      }
+
+      .ca {
+        fill: #54a033;
+      }
+
+      .cb {
+        fill: #bbc50e;
+      }
+
+      .cc {
+        fill: #acc013;
+      }
+
+      .cd {
+        fill: #5da332;
+      }
+
+      .ce {
+        fill: #5ba332;
+      }
+
+      .cf {
+        fill: #efd900;
+      }
+
+      .cg {
+        fill: #87b326;
+      }
+
+      .ch {
+        fill: #c6ca10;
+      }
+
+      .ci {
+        fill: #8bb425;
+      }
+
+      .cj {
+        fill: #81b128;
+      }
+
+      .ck {
+        fill: #e1d201;
+      }
+
+      .cl {
+        fill: #60a631;
+      }
+
+      .cm {
+        fill: #449a35;
+      }
+
+      .cn {
+        fill: #a2bc1a;
+      }
+
+      .co {
+        fill: #b2c20e;
+      }
+
+      .cp {
+        fill: #74ab2c;
+      }
+
+      .cq {
+        fill: #d5cf0c;
+      }
+
+      .cr {
+        fill: #f9dc00;
+      }
+
+      .cs {
+        fill: #57a132;
+      }
+
+      .ct {
+        fill: #3d9836;
+      }
+
+      .cu {
+        fill: #f1d901;
+      }
+
+      .cv {
+        fill: #b0c110;
+      }
+
+      .cw {
+        fill: #6daa2e;
+      }
+
+      .cx {
+        fill: #ded100;
+      }
+
+      .cy {
+        fill: #93b722;
+      }
+
+      .cz {
+        fill: #5aa232;
+      }
+
+      .da {
+        fill: #b7c312;
+      }
+
+      .db {
+        fill: #62a630;
+      }
+
+      .dc {
+        fill: #d8d009;
+      }
+
+      .dd {
+        fill: #7daf2a;
+      }
+
+      .de {
+        fill: #3b9736;
+      }
+
+      .df {
+        fill: #c0c70d;
+      }
+
+      .dg {
+        fill: #7bae2a;
+      }
+
+      .dh {
+        fill: #b8c411;
+      }
+
+      .di {
+        fill: #9ebb1c;
+      }
+
+      .dj {
+        fill: #c7c912;
+      }
+
+      .dk {
+        fill: #4e9e34;
+      }
+
+      .dl {
+        fill: #e7d601;
+      }
+
+      .dm {
+        fill: #e1d300;
+      }
+
+      .dn {
+        fill: #57a233;
+      }
+
+      .do {
+        fill: #ecd800;
+      }
+
+      .dp {
+        fill: #b9c510;
+      }
+
+      .dq {
+        fill: #fbdc02;
+      }
+
+      .dr {
+        fill: #c2c80e;
+      }
+
+      .ds {
+        fill: #8ab425;
+      }
+
+      .dt {
+        fill: #489d35;
+      }
+
+      .du {
+        fill: #d7cf0c;
+      }
+
+      .dv {
+        fill: #95b921;
+      }
+
+      .dw {
+        fill: #adc013;
+      }
+
+      .dx {
+        fill: #58a232;
+      }
+
+      .dy {
+        fill: #4f9f34;
+      }
+
+      .dz {
+        fill: #75ac2c;
+      }
+
+      .ea {
+        fill: #cacb12;
+      }
+
+      .eb {
+        fill: #b3c310;
+      }
+
+      .ec {
+        fill: #a3bd19;
+      }
+
+      .ed {
+        fill: #85b327;
+      }
+
+      .ee {
+        fill: #7caf2a;
+      }
+
+      .ef {
+        fill: #63a730;
+      }
+
+      .eg {
+        fill: #f3d903;
+      }
+
+      .eh {
+        fill: #ebd700;
+      }
+
+      .ei {
+        fill: #afc111;
+      }
+
+      .ej {
+        fill: #d4ce0b;
+      }
+
+      .ek {
+        fill: #369537;
+      }
+
+      .el {
+        fill: #e9d603;
+      }
+
+      .em {
+        fill: #a4bd19;
+      }
+
+      .en {
+        fill: #82b128;
+      }
+
+      .eo {
+        fill: #c0c70f;
+      }
+
+      .gh {
+        clip-path: url(#d);
+      }
+
+      .ep {
+        fill: #a9bf16;
+      }
+
+      .eq {
+        fill: #479b35;
+      }
+
+      .er {
+        fill: #52a033;
+      }
+
+      .es {
+        fill: #b6c413;
+      }
+
+      .et {
+        fill: #cccc10;
+      }
+
+      .eu {
+        fill: #409936;
+      }
+
+      .ev {
+        fill: #9fbb1c;
+      }
+
+      .ew {
+        fill: #79ae2b;
+      }
+
+      .ex {
+        fill: #a1bc1b;
+      }
+
+      .ey {
+        fill: #cbcb0e;
+      }
+
+      .ez {
+        fill: #e9d700;
+      }
+
+      .fa {
+        fill: #c3c90c;
+      }
+
+      .fb {
+        fill: #4b9e34;
+      }
+
+      .fc {
+        fill: #fcdd06;
+      }
+
+      .fd {
+        fill: #459b35;
+      }
+
+      .fe {
+        fill: #fff;
+      }
+
+      .ff {
+        fill: #cfcc0d;
+      }
+
+      .fg {
+        fill: #97b920;
+      }
+
+      .fh {
+        fill: #f5da00;
+      }
+
+      .fi {
+        fill: #64a730;
+      }
+
+      .fj {
+        fill: #edd800;
+      }
+
+      .fk {
+        fill: #bdc50d;
+      }
+
+      .fl {
+        fill: #389636;
+      }
+
+      .fm {
+        fill: #c8ca11;
+      }
+
+      .fn {
+        fill: #c4c80f;
+      }
+
+      .fo {
+        fill: #cecc0e;
+      }
+
+      .fp {
+        fill: #76ac2c;
+      }
+
+      .fq {
+        fill: #e4d401;
+      }
+
+      .fr {
+        fill: #c5ca10;
+      }
+
+      .fs {
+        fill: #b4c212;
+      }
+
+      .ft {
+        fill: #003d78;
+      }
+
+      .fu {
+        fill: #8fb623;
+      }
+
+      .fv {
+        fill: #dfd200;
+      }
+
+      .fw {
+        fill: #68a82f;
+      }
+
+      .fx {
+        fill: #fadc03;
+      }
+
+      .fy {
+        fill: #429a35;
+      }
+
+      .fz {
+        fill: #88b326;
+      }
+
+      .ga {
+        fill: #6aa92f;
+      }
+
+      .gb {
+        fill: #99b91f;
+      }
+
+      .gc {
+        fill: #8db524;
+      }
+
+      .gd {
+        fill: #d0cd0b;
+      }
+
+      .ge {
+        fill: #f7db02;
+      }
+
+      .gf {
+        fill: #91b722;
+      }
+
+      .gg {
+        fill: #78ad2b;
+      }
+    </style>
+    <clipPath id="d">
+      <path class="w" d="M147.64,118.66c-11.57,21.95-34.63,36.92-61.17,36.92s-49.6-14.97-61.17-36.92h122.34Z"/>
+    </clipPath>
+  </defs>
+  <g id="c" data-name="Dimensions">
+    <g>
+      <circle class="fe" cx="86.47" cy="86.47" r="86.47"/>
+      <g>
+        <path class="ft" d="M155.58,86.47c0,4.87-.51,9.63-1.46,14.2H18.83c-.96-4.58-1.47-9.33-1.47-14.2,0-38.17,30.94-69.11,69.11-69.11s69.11,30.94,69.11,69.11Z"/>
+        <g class="gh">
+          <rect class="o" x="25.3" y="118.66" width=".6" height="36.92"/>
+          <rect class="fc" x="25.9" y="118.66" width=".6" height="36.92"/>
+          <rect class="dq" x="26.5" y="118.66" width=".6" height="36.92"/>
+          <rect class="fx" x="27.1" y="118.66" width=".6" height="36.92"/>
+          <rect class="cr" x="27.7" y="118.66" width=".6" height="36.92"/>
+          <rect class="bl" x="28.3" y="118.66" width=".6" height="36.92"/>
+          <rect class="ge" x="28.9" y="118.66" width=".6" height="36.92"/>
+          <rect class="fh" x="29.5" y="118.66" width=".6" height="36.92"/>
+          <rect class="fh" x="30.1" y="118.66" width=".6" height="36.92"/>
+          <rect class="aw" x="30.7" y="118.66" width=".6" height="36.92"/>
+          <rect class="eg" x="31.3" y="118.66" width=".6" height="36.92"/>
+          <rect class="m" x="31.9" y="118.66" width=".6" height="36.92"/>
+          <rect class="cu" x="32.5" y="118.66" width=".6" height="36.92"/>
+          <rect class="bq" x="33.09" y="118.66" width=".6" height="36.92"/>
+          <rect class="cf" x="33.69" y="118.66" width=".6" height="36.92"/>
+          <rect class="at" x="34.29" y="118.66" width=".6" height="36.92"/>
+          <rect class="fj" x="34.89" y="118.66" width=".6" height="36.92"/>
+          <rect class="k" x="35.49" y="118.66" width=".6" height="36.92"/>
+          <rect class="do" x="36.09" y="118.66" width=".6" height="36.92"/>
+          <rect class="eh" x="36.69" y="118.66" width=".6" height="36.92"/>
+          <rect class="ez" x="37.29" y="118.66" width=".6" height="36.92"/>
+          <rect class="el" x="37.89" y="118.66" width=".6" height="36.92"/>
+          <rect class="az" x="38.49" y="118.66" width=".6" height="36.92"/>
+          <rect class="dl" x="39.09" y="118.66" width=".6" height="36.92"/>
+          <rect class="ax" x="39.69" y="118.66" width=".6" height="36.92"/>
+          <rect class="fq" x="40.29" y="118.66" width=".6" height="36.92"/>
+          <rect class="bb" x="40.89" y="118.66" width=".6" height="36.92"/>
+          <rect class="dm" x="41.49" y="118.66" width=".6" height="36.92"/>
+          <rect class="ck" x="42.09" y="118.66" width=".6" height="36.92"/>
+          <rect class="fv" x="42.69" y="118.66" width=".6" height="36.92"/>
+          <rect class="cx" x="43.29" y="118.66" width=".6" height="36.92"/>
+          <rect class="i" x="43.89" y="118.66" width=".6" height="36.92"/>
+          <rect class="bu" x="44.49" y="118.66" width=".6" height="36.92"/>
+          <rect class="g" x="45.09" y="118.66" width=".6" height="36.92"/>
+          <rect class="bz" x="45.69" y="118.66" width=".6" height="36.92"/>
+          <rect class="ai" x="46.29" y="118.66" width=".6" height="36.92"/>
+          <rect class="dc" x="46.89" y="118.66" width=".6" height="36.92"/>
+          <rect class="ag" x="47.49" y="118.66" width=".6" height="36.92"/>
+          <rect class="du" x="48.09" y="118.66" width=".6" height="36.92"/>
+          <rect class="ar" x="48.69" y="118.66" width=".6" height="36.92"/>
+          <rect class="cq" x="49.29" y="118.66" width=".6" height="36.92"/>
+          <rect class="au" x="49.89" y="118.66" width=".6" height="36.92"/>
+          <rect class="ej" x="50.49" y="118.66" width=".6" height="36.92"/>
+          <rect class="ac" x="51.09" y="118.66" width=".6" height="36.92"/>
+          <rect class="e" x="51.69" y="118.66" width=".6" height="36.92"/>
+          <rect class="gd" x="52.29" y="118.66" width=".6" height="36.92"/>
+          <rect class="ff" x="52.88" y="118.66" width=".6" height="36.92"/>
+          <rect class="ff" x="53.48" y="118.66" width=".6" height="36.92"/>
+          <rect class="fo" x="54.08" y="118.66" width=".6" height="36.92"/>
+          <rect class="y" x="54.68" y="118.66" width=".6" height="36.92"/>
+          <rect class="et" x="55.28" y="118.66" width=".6" height="36.92"/>
+          <rect class="ey" x="55.88" y="118.66" width=".6" height="36.92"/>
+          <rect class="ea" x="56.48" y="118.66" width=".6" height="36.92"/>
+          <rect class="f" x="57.08" y="118.66" width=".6" height="36.92"/>
+          <rect class="fm" x="57.68" y="118.66" width=".6" height="36.92"/>
+          <rect class="dj" x="58.28" y="118.66" width=".6" height="36.92"/>
+          <rect class="ch" x="58.88" y="118.66" width=".6" height="36.92"/>
+          <rect class="fr" x="59.48" y="118.66" width=".6" height="36.92"/>
+          <rect class="fn" x="60.08" y="118.66" width=".6" height="36.92"/>
+          <rect class="fa" x="60.68" y="118.66" width=".6" height="36.92"/>
+          <rect class="dr" x="61.28" y="118.66" width=".6" height="36.92"/>
+          <rect class="eo" x="61.88" y="118.66" width=".6" height="36.92"/>
+          <rect class="df" x="62.48" y="118.66" width=".6" height="36.92"/>
+          <rect class="aj" x="63.08" y="118.66" width=".6" height="36.92"/>
+          <rect class="fk" x="63.68" y="118.66" width=".6" height="36.92"/>
+          <rect class="cb" x="64.28" y="118.66" width=".6" height="36.92"/>
+          <rect class="j" x="64.88" y="118.66" width=".6" height="36.92"/>
+          <rect class="dp" x="65.48" y="118.66" width=".6" height="36.92"/>
+          <rect class="dh" x="66.08" y="118.66" width=".6" height="36.92"/>
+          <rect class="da" x="66.68" y="118.66" width=".6" height="36.92"/>
+          <rect class="es" x="67.28" y="118.66" width=".6" height="36.92"/>
+          <rect class="bx" x="67.88" y="118.66" width=".6" height="36.92"/>
+          <rect class="fs" x="68.48" y="118.66" width=".6" height="36.92"/>
+          <rect class="eb" x="69.08" y="118.66" width=".6" height="36.92"/>
+          <rect class="co" x="69.68" y="118.66" width=".6" height="36.92"/>
+          <rect class="co" x="70.28" y="118.66" width=".6" height="36.92"/>
+          <rect class="bh" x="70.88" y="118.66" width=".6" height="36.92"/>
+          <rect class="cv" x="71.48" y="118.66" width=".6" height="36.92"/>
+          <rect class="ei" x="72.08" y="118.66" width=".6" height="36.92"/>
+          <rect class="x" x="72.67" y="118.66" width=".6" height="36.92"/>
+          <rect class="dw" x="73.27" y="118.66" width=".6" height="36.92"/>
+          <rect class="cc" x="73.87" y="118.66" width=".6" height="36.92"/>
+          <rect class="p" x="74.47" y="118.66" width=".6" height="36.92"/>
+          <rect class="ab" x="75.07" y="118.66" width=".6" height="36.92"/>
+          <rect class="ep" x="75.67" y="118.66" width=".6" height="36.92"/>
+          <rect class="bi" x="76.27" y="118.66" width=".6" height="36.92"/>
+          <rect class="al" x="76.87" y="118.66" width=".6" height="36.92"/>
+          <rect class="bt" x="77.47" y="118.66" width=".6" height="36.92"/>
+          <rect class="h" x="78.07" y="118.66" width=".6" height="36.92"/>
+          <rect class="em" x="78.67" y="118.66" width=".6" height="36.92"/>
+          <rect class="ec" x="79.27" y="118.66" width=".6" height="36.92"/>
+          <rect class="cn" x="79.87" y="118.66" width=".6" height="36.92"/>
+          <rect class="ex" x="80.47" y="118.66" width=".6" height="36.92"/>
+          <rect class="bv" x="81.07" y="118.66" width=".6" height="36.92"/>
+          <rect class="ev" x="81.67" y="118.66" width=".6" height="36.92"/>
+          <rect class="di" x="82.27" y="118.66" width=".6" height="36.92"/>
+          <rect class="ak" x="82.87" y="118.66" width=".6" height="36.92"/>
+          <rect class="ah" x="83.47" y="118.66" width=".6" height="36.92"/>
+          <rect class="l" x="84.07" y="118.66" width=".6" height="36.92"/>
+          <rect class="ad" x="84.67" y="118.66" width=".6" height="36.92"/>
+          <rect class="gb" x="85.27" y="118.66" width=".6" height="36.92"/>
+          <rect class="av" x="85.87" y="118.66" width=".6" height="36.92"/>
+          <rect class="fg" x="86.47" y="118.66" width=".6" height="36.92"/>
+          <rect class="dv" x="87.07" y="118.66" width=".6" height="36.92"/>
+          <rect class="by" x="87.67" y="118.66" width=".6" height="36.92"/>
+          <rect class="cy" x="88.27" y="118.66" width=".6" height="36.92"/>
+          <rect class="v" x="88.87" y="118.66" width=".6" height="36.92"/>
+          <rect class="gf" x="89.47" y="118.66" width=".6" height="36.92"/>
+          <rect class="r" x="90.07" y="118.66" width=".6" height="36.92"/>
+          <rect class="fu" x="90.67" y="118.66" width=".6" height="36.92"/>
+          <rect class="gc" x="91.27" y="118.66" width=".6" height="36.92"/>
+          <rect class="gc" x="91.87" y="118.66" width=".6" height="36.92"/>
+          <rect class="gc" x="92.46" y="118.66" width=".6" height="36.92"/>
+          <rect class="ci" x="93.06" y="118.66" width=".6" height="36.92"/>
+          <rect class="ds" x="93.66" y="118.66" width=".6" height="36.92"/>
+          <rect class="q" x="94.26" y="118.66" width=".6" height="36.92"/>
+          <rect class="fz" x="94.86" y="118.66" width=".6" height="36.92"/>
+          <rect class="cg" x="95.46" y="118.66" width=".6" height="36.92"/>
+          <rect class="ed" x="96.06" y="118.66" width=".6" height="36.92"/>
+          <rect class="as" x="96.66" y="118.66" width=".6" height="36.92"/>
+          <rect class="u" x="97.26" y="118.66" width=".6" height="36.92"/>
+          <rect class="en" x="97.86" y="118.66" width=".6" height="36.92"/>
+          <rect class="en" x="98.46" y="118.66" width=".6" height="36.92"/>
+          <rect class="cj" x="99.06" y="118.66" width=".6" height="36.92"/>
+          <rect class="bf" x="99.66" y="118.66" width=".6" height="36.92"/>
+          <rect class="z" x="100.26" y="118.66" width=".6" height="36.92"/>
+          <rect class="bw" x="100.86" y="118.66" width=".6" height="36.92"/>
+          <rect class="dd" x="101.46" y="118.66" width=".6" height="36.92"/>
+          <rect class="dd" x="102.06" y="118.66" width=".6" height="36.92"/>
+          <rect class="ee" x="102.66" y="118.66" width=".6" height="36.92"/>
+          <rect class="dg" x="103.26" y="118.66" width=".6" height="36.92"/>
+          <rect class="ew" x="103.86" y="118.66" width=".6" height="36.92"/>
+          <rect class="ew" x="104.46" y="118.66" width=".6" height="36.92"/>
+          <rect class="gg" x="105.06" y="118.66" width=".6" height="36.92"/>
+          <rect class="br" x="105.66" y="118.66" width=".6" height="36.92"/>
+          <rect class="fp" x="106.26" y="118.66" width=".6" height="36.92"/>
+          <rect class="dz" x="106.86" y="118.66" width=".6" height="36.92"/>
+          <rect class="ba" x="107.46" y="118.66" width=".6" height="36.92"/>
+          <rect class="cp" x="108.06" y="118.66" width=".6" height="36.92"/>
+          <rect class="ao" x="108.66" y="118.66" width=".6" height="36.92"/>
+          <rect class="bg" x="109.26" y="118.66" width=".6" height="36.92"/>
+          <rect class="bp" x="109.86" y="118.66" width=".6" height="36.92"/>
+          <rect class="bs" x="110.46" y="118.66" width=".6" height="36.92"/>
+          <rect class="bd" x="111.06" y="118.66" width=".6" height="36.92"/>
+          <rect class="cw" x="111.66" y="118.66" width=".6" height="36.92"/>
+          <rect class="af" x="112.26" y="118.66" width=".6" height="36.92"/>
+          <rect class="ap" x="112.85" y="118.66" width=".6" height="36.92"/>
+          <rect class="ga" x="113.45" y="118.66" width=".6" height="36.92"/>
+          <rect class="bk" x="114.05" y="118.66" width=".6" height="36.92"/>
+          <rect class="fw" x="114.65" y="118.66" width=".6" height="36.92"/>
+          <rect class="ay" x="115.25" y="118.66" width=".6" height="36.92"/>
+          <rect class="ae" x="115.85" y="118.66" width=".6" height="36.92"/>
+          <rect class="fi" x="116.45" y="118.66" width=".6" height="36.92"/>
+          <rect class="fi" x="117.05" y="118.66" width=".6" height="36.92"/>
+          <rect class="ef" x="117.65" y="118.66" width=".6" height="36.92"/>
+          <rect class="db" x="118.25" y="118.66" width=".6" height="36.92"/>
+          <rect class="db" x="118.85" y="118.66" width=".6" height="36.92"/>
+          <rect class="cl" x="119.45" y="118.66" width=".6" height="36.92"/>
+          <rect class="bn" x="120.05" y="118.66" width=".6" height="36.92"/>
+          <rect class="n" x="120.65" y="118.66" width=".6" height="36.92"/>
+          <rect class="cd" x="121.25" y="118.66" width=".6" height="36.92"/>
+          <rect class="ce" x="121.85" y="118.66" width=".6" height="36.92"/>
+          <rect class="ce" x="122.45" y="118.66" width=".6" height="36.92"/>
+          <rect class="cz" x="123.05" y="118.66" width=".6" height="36.92"/>
+          <rect class="dx" x="123.65" y="118.66" width=".6" height="36.92"/>
+          <rect class="dn" x="124.25" y="118.66" width=".6" height="36.92"/>
+          <rect class="cs" x="124.85" y="118.66" width=".6" height="36.92"/>
+          <rect class="s" x="125.45" y="118.66" width=".6" height="36.92"/>
+          <rect class="s" x="126.05" y="118.66" width=".6" height="36.92"/>
+          <rect class="ca" x="126.65" y="118.66" width=".6" height="36.92"/>
+          <rect class="ca" x="127.25" y="118.66" width=".6" height="36.92"/>
+          <rect class="er" x="127.85" y="118.66" width=".6" height="36.92"/>
+          <rect class="bc" x="128.45" y="118.66" width=".6" height="36.92"/>
+          <rect class="dy" x="129.05" y="118.66" width=".6" height="36.92"/>
+          <rect class="dk" x="129.65" y="118.66" width=".6" height="36.92"/>
+          <rect class="bo" x="130.25" y="118.66" width=".6" height="36.92"/>
+          <rect class="an" x="130.85" y="118.66" width=".6" height="36.92"/>
+          <rect class="an" x="131.45" y="118.66" width=".6" height="36.92"/>
+          <rect class="fb" x="132.05" y="118.66" width=".6" height="36.92"/>
+          <rect class="fb" x="132.64" y="118.66" width=".6" height="36.92"/>
+          <rect class="aa" x="133.24" y="118.66" width=".6" height="36.92"/>
+          <rect class="dt" x="133.84" y="118.66" width=".6" height="36.92"/>
+          <rect class="am" x="134.44" y="118.66" width=".6" height="36.92"/>
+          <rect class="eq" x="135.04" y="118.66" width=".6" height="36.92"/>
+          <rect class="fd" x="135.64" y="118.66" width=".6" height="36.92"/>
+          <rect class="cm" x="136.24" y="118.66" width=".6" height="36.92"/>
+          <rect class="cm" x="136.84" y="118.66" width=".6" height="36.92"/>
+          <rect class="fy" x="137.44" y="118.66" width=".6" height="36.92"/>
+          <rect class="eu" x="138.04" y="118.66" width=".6" height="36.92"/>
+          <rect class="eu" x="138.64" y="118.66" width=".6" height="36.92"/>
+          <rect class="eu" x="139.24" y="118.66" width=".6" height="36.92"/>
+          <rect class="bj" x="139.84" y="118.66" width=".6" height="36.92"/>
+          <rect class="bj" x="140.44" y="118.66" width=".6" height="36.92"/>
+          <rect class="ct" x="141.04" y="118.66" width=".6" height="36.92"/>
+          <rect class="de" x="141.64" y="118.66" width=".6" height="36.92"/>
+          <rect class="aq" x="142.24" y="118.66" width=".6" height="36.92"/>
+          <rect class="be" x="142.84" y="118.66" width=".6" height="36.92"/>
+          <rect class="bm" x="143.44" y="118.66" width=".6" height="36.92"/>
+          <rect class="fl" x="144.04" y="118.66" width=".6" height="36.92"/>
+          <rect class="fl" x="144.64" y="118.66" width=".6" height="36.92"/>
+          <rect class="ek" x="145.24" y="118.66" width=".6" height="36.92"/>
+          <rect class="ek" x="145.84" y="118.66" width=".6" height="36.92"/>
+          <rect class="t" x="146.44" y="118.66" width=".6" height="36.92"/>
+          <rect class="t" x="147.04" y="118.66" width=".6" height="36.92"/>
+        </g>
+      </g>
+      <g>
+        <path class="fe" d="M25.66,73.92h5.18c2.74,0,4.77.89,4.77,3.4,0,1.91-1.04,2.87-2.42,3.14v.04c1.68.31,2.83,1.26,2.83,3.35,0,2.52-2.05,3.75-4.85,3.75h-5.51v-13.69ZM30.61,79.64c1.81,0,2.77-.56,2.77-1.87s-.83-1.81-2.74-1.81h-2.72v3.68h2.68ZM30.93,85.61c1.96,0,2.81-.63,2.81-2,0-1.46-1.11-2.02-3.05-2.02h-2.76v4.01h3Z"/>
+        <path class="fe" d="M39.57,73.92h2.33v13.69h-2.33v-13.69Z"/>
+        <path class="fe" d="M45.27,80.77c0-4.61,2.72-7.1,6.2-7.1s6.16,2.5,6.16,7.1-2.7,7.1-6.16,7.1-6.2-2.5-6.2-7.1ZM55.3,80.77c0-3.22-1.53-4.98-3.83-4.98s-3.87,1.76-3.87,4.98,1.53,5.01,3.87,5.01,3.83-1.79,3.83-5.01Z"/>
+        <path class="fe" d="M60.86,73.92h3.05l3.66,10.86h.04l3.55-10.86h3.11v13.69h-2.24v-10.21h-.04c-.2.94-.5,1.83-.81,2.79l-2.66,7.42h-2.05l-2.64-7.42c-.33-.98-.54-1.57-.83-2.88h-.04v10.3h-2.09v-13.69Z"/>
+        <path class="fe" d="M78.16,73.92h8.84v2.15h-6.53v3.4h4.79v2.05h-4.79v3.98h6.9v2.11h-9.21v-13.69ZM82.99,70.02h2.46l-2.68,3.07h-1.52l1.74-3.07Z"/>
+        <path class="fe" d="M90.43,73.92h4.9c3.26,0,5.14,1.31,5.14,4.11,0,2.18-1.13,3.42-3.03,3.88l3.22,5.7h-2.48l-3.07-5.4h-2.41v5.4h-2.27v-13.69ZM95.24,80.19c1.92,0,2.96-.48,2.96-2.11s-1.02-2.05-2.98-2.05h-2.52v4.16h2.53Z"/>
+        <path class="fe" d="M104.15,73.92h2.33v13.69h-2.33v-13.69Z"/>
+        <path class="fe" d="M110.51,73.92h8.84v2.15h-6.53v3.4h4.79v2.05h-4.79v3.98h6.9v2.11h-9.21v-13.69Z"/>
+        <path class="fe" d="M122.41,82.62v-8.69h2.31v8.49c0,2.09.91,3.33,3.02,3.33s3-1.2,3-3.31v-8.51h2.28v8.68c0,3.11-1.76,5.23-5.29,5.23-3.77,0-5.31-2.11-5.31-5.22Z"/>
+        <path class="fe" d="M140.12,80.34l-4.07-6.42h2.65l2.85,4.59,2.76-4.59h2.4l-3.99,6.42,4.57,7.27h-2.55l-3.38-5.42-3.35,5.42h-2.42l4.55-7.27Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

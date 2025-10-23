@@ -1,0 +1,234 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #ffffff;
+  color: #003d78;
+  margin: 0;
+  width: 100%;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+video {
+  padding: 0;
+  width: 100%;
+}
+.mm {
+  margin: 0 auto;
+}
+
+.bg-img {
+  background-image: url("/assets/bg-image-courses.webp");
+  background-size: 30%;
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  min-height: calc(100vh - 30px);
+}
+
+/* Montserrat Light */
+@font-face {
+  font-family: "Montserrat Light";
+  src: url("/font/Montserrat-Light_0.ttf");
+}
+
+/* Clase para Montserrat Light */
+.font-montserrat-light {
+  font-family: "Montserrat Light", sans-serif;
+}
+
+/* Montserrat Thin */
+@font-face {
+  font-family: "Montserrat Thin";
+  src: url("/font/Montserrat-Thin_0.ttf");
+}
+
+/* Clase para Montserrat Thin */
+.font-montserrat-thin {
+  font-family: "Montserrat Thin", sans-serif;
+}
+
+/* Montserrat Bold */
+@font-face {
+  font-family: "Montserrat Bold";
+  src: url("/font/Montserrat-Bold_0.ttf");
+}
+
+/* Clase para Montserrat Bold */
+.font-montserrat-bold {
+  font-family: "Montserrat Bold", sans-serif;
+}
+
+/* Montserrat SemiBold */
+@font-face {
+  font-family: "Montserrat SemiBold";
+  src: url("/font/Montserrat-SemiBold_0.ttf");
+}
+
+/* Clase para Montserrat SemiBold */
+.font-montserrat-semibold {
+  font-family: "Montserrat SemiBold", sans-serif;
+}
+
+/* Montserrat Regular */
+@font-face {
+  font-family: "Montserrat Regular";
+  src: url("/font/Montserrat-Regular_0.ttf");
+}
+
+/* Clase para Montserrat Regular */
+.font-montserrat-regular {
+  font-family: "Montserrat Regular", sans-serif;
+}
+
+/* Montserrat ExtraBold */
+@font-face {
+  font-family: "Montserrat ExtraBold";
+  src: url("/font/Montserrat-ExtraBold_0.ttf");
+}
+
+/* Clase para Montserrat ExtraBold */
+.font-montserrat-extrabold {
+  font-family: "Montserrat ExtraBold", sans-serif;
+}
+
+.conButton {
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+
+.imgButton {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 50%;
+  max-height: 50%;
+  position: absolute;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 61, 120, 0.9);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.modal {
+  background-color: white;
+  border-radius: 20px;
+  padding: 2px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.modal-content {
+  position: relative;
+}
+
+.close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.messageText {
+  font-size: 15px;
+  background-color: white;
+  padding: 8px;
+  line-height: 20px;
+  -moz-border-bottom-left-radius: 20px;
+  -webkit-border-bottom-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  -moz-border-bottom-right-radius: 20px;
+  -webkit-border-bottom-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  -moz-border-top-right-radius: 20px;
+  -webkit-border-top-right-radius: 20px;
+  -moz-border-top-left-radius: 20px;
+  border-top-left-radius: 20px;
+  -moz-border-radius-topleft: 20px;
+  -webkit-border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  -webkit-box-decoration-break: clone;
+  -o-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+audio::-webkit-media-controls-panel {
+  background-color: #003c787c;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 180px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #f1f1f1;
+}
+
+/* Estilos para resaltar la opción cuando se hace hover */
+input[type="radio"] + label:hover {
+  background-color: #003d78;
+  color: white;
+}
+
+/* Estilos para resaltar la opción seleccionada */
+input[type="radio"]:checked + label {
+  background-color: #003d78;
+  color: white;
+}
+
+/* Estilos para resaltar la opción seleccionada cuando se hace hover */
+input[type="radio"]:checked + label:hover {
+  background-color: #003d78;
+  color: white;
+}
+
+/* Estilos para resaltar el span cuando se hace hover */
+input[type="radio"] + label:hover span {
+  color: white;
+}
+
+/* Estilos para resaltar el span de la opción seleccionada */
+input[type="radio"]:checked + label span {
+  color: white;
+}
+
+.spinner {
+  transform-origin: center;
+  animation: spinner_irSm 0.75s infinite linear;
+}
+@keyframes spinner_irSm {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
