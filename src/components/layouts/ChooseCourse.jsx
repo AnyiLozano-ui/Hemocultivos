@@ -14,7 +14,7 @@ function ChooseModal({ onClose }) {
           <div className="relative py-4 px-5 md:py-12 md:px-4 font-montserrat-regular border border-[#003D78] rounded-lg">
             <div className="flex md:flex-col w-[40%] content-center items-center">
               <div className="font-montserrat-regular text-center text-sm md:text-base">
-                <Link to="/welcome">
+                <Link to="/welcome-col">
                   <img
                     src={Hemocultivos}
                     alt="Hemocultivos"

@@ -23,7 +23,7 @@ export const NavigationButtons = () => {
           />
         </Link>
 
-        <Link to="/welcome" className="conButton border border-[#003D78] bg-white rounded-full ">
+        <Link to="/welcome-col" className="conButton border border-[#003D78] bg-white rounded-full ">
           <img
             src={LeftButton}
             alt="Left button"

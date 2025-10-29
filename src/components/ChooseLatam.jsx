@@ -27,7 +27,7 @@ export default function ChooseLatam() {
 					</div>
 
 					<div className="flex justify-center">
-						<Link to="/welcome">
+						<Link to="/welcome-col">
 							<img
 								src={hemocult}
 								alt="Buenas prácticas en hemocultivos"
